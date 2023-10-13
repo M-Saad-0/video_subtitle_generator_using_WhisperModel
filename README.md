@@ -2,5 +2,5 @@
 This project use a voice recognition model to generate subtitle for video with time stamps. The model used for automatic speech recognition is <b>Whisper by Open AI</b>. 
 It use <b>Tkinter</b> for its simple gui.
 All the dependencies can be installed by running the command below</br>
-<ul style="background-color:black"><li><b>pip install -r requirements.txt</b>
-</li></ul>
+<div style="background-color:black"><ul><li><b>pip install -r requirements.txt</b>
+</li></ul></div>
