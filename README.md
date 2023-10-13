@@ -4,3 +4,5 @@ It use <b>Tkinter</b> for its simple gui.
 All the dependencies can be installed by running the command below</br>
 <div style="background-color:black"><ul><li><b>pip install -r requirements.txt</b>
 </li></ul></div>
+</br>
+It is a project for course <b>CSE208L-Object Oriented Programming Lab</b> and it does use aspects of OOP.
